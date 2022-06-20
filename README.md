@@ -36,9 +36,6 @@ float divider(int x, int y)
         if (y == 0)
             throw std::overflow_error("Divide by zero exception"); //@test (-1, 0)
 
-        yo();
-
         return a + b; //@test (2, 1) assert 2
 }
 ```
-    
