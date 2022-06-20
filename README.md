@@ -1,11 +1,12 @@
 # testing-framework
-insource testing framework
+insource unitary testing framework
 
-The idea of this project is to embed directly unitary test inside source in order to diminish back and forth between code and its unitary tests
+The idea of this project is to embed directly unitary tests inside source code in order to reduce back and forth between code and its unitary tests.
+Using old method of testing when you rename a function for example you should rename all the tests related to it
 
 
 
-## How its works
+## How it works
 
 your unitary tests will look like this :
 
